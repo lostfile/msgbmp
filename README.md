@@ -7,3 +7,4 @@ a base16 message encoder made in python
 ## todo
 - add ecoding from txt file
 - other misc things
+- clean up code a bit
