@@ -8,3 +8,4 @@ a base16 message encoder made in python
 - add ecoding from txt file
 - other misc things
 - clean up code a bit
+- fire code monkey
